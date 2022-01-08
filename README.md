@@ -3,7 +3,11 @@
 
 > Secondly go the required folder by ```cd/required_folder ``` 
 
-> Make the necessary imports by ``` pip install numpy , sklearn , pandas ```
+> Make the necessary imports by ``` pip install numpy , sklearn , pandas ```.
+
+> The link for the original kaggle dataset is also mentioned .
+
+> The dataset has already be churned for you and you can see the colab notebook also .
 
 > This model uses the minimal flask required for deployment and also has a very basic ML model 
 
