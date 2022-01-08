@@ -3,7 +3,7 @@
 
 > Secondly go the required folder by ```cd/required_folder ``` 
 
-> Make the necessory imports by ``` pip install numpy , sklearn , pandas ```
+> Make the necessary imports by ``` pip install numpy , sklearn , pandas ```
 
 > This model uses the minimal flask required for deployment and also has a very basic ML model 
 
